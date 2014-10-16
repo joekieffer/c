@@ -1,0 +1,7 @@
+To compile on Mac and Linux
+navigate to the directory where you cpp source files are located
+
+type g++ <filename>.coo
+if there are no errors you will get an output file named a.out
+
+to run this file type ./a.out
